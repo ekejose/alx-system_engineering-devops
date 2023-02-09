@@ -1,2 +1,2 @@
 #!/bin/bash
-chmond 077 hello
+chmod 077 hello
